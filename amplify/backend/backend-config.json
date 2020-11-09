@@ -1,12 +1,5 @@
 {
-  "auth": {
-    "amplifyconsoleapp3654bb99": {
-      "service": "Cognito",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false
-    }
-  },
+  "auth": {},
   "hosting": {
     "S3AndCloudFront": {
       "service": "S3AndCloudFront",
